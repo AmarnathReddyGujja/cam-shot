@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Cinematic Frame Finder",
+  "description": "Upload an image and let AI analyze it. The AI can suggest a direct cinematic crop from your image or, if a more transformative approach is needed, generate a new visual concept to inspire your cinematography.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
